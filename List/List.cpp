@@ -32,7 +32,6 @@ void List<T>::pop_front() {
 template<typename T>
 void List<T>::pop_back() {
     removeAt(Size - 1);
-
 }
 
 template<typename T>

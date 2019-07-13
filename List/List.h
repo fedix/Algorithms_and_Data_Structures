@@ -36,7 +36,6 @@ private:
     };
 
     Node *head;
-    //TODO: add tail
     int Size;
 };
 
